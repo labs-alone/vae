@@ -72,10 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- GitHub: [vae-engine/vae](https://github.com/vae-engine/vae)
-- Discord: [Join our community](https://discord.gg/vae-engine)
-- Email: team@vae-engine.dev
-- Twitter: [@vae_engine](https://twitter.com/vae_engine)
+- Twitter: [@vae_engine](https://x.com/alone_labs)
 
 ## Acknowledgments
 
