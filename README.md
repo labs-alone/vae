@@ -1,7 +1,7 @@
 # VAE (Visual Analytics Engine)
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335199897472729098/Add_a_heading_1.png" alt="VAE Banner" width="100%">
+  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335200374637854782/Add_a_heading_2.png" alt="VAE Banner" width="100%">
 </div>
 
 VAE is a high-performance visual analytics engine built in Rust, designed for real-time video processing, object detection, and scene analysis.
@@ -24,7 +24,7 @@ VAE is a high-performance visual analytics engine built in Rust, designed for re
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vae.git
+git clone https://github.com/vae-engine/vae.git
 cd vae
 
 # Build the project
@@ -72,8 +72,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- GitHub Issues: [Create an issue](https://github.com/yourusername/vae/issues)
-- Email: your.email@example.com
+- GitHub: [vae-engine/vae](https://github.com/vae-engine/vae)
+- Discord: [Join our community](https://discord.gg/vae-engine)
+- Email: team@vae-engine.dev
+- Twitter: [@vae_engine](https://twitter.com/vae_engine)
 
 ## Acknowledgments
 
