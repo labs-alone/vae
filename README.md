@@ -1,7 +1,7 @@
 # VAE (Visual Analytics Engine)
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335200374637854782/Add_a_heading_2.png" alt="VAE Banner" width="100%">
+  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335200374637854782/Add_a_heading_2.png?ex=679f4dc0&is=679dfc40&hm=5367b1e721d61ba5b273cb071eed573aab9809f3a452e5954b8153dccfde90db&=&format=webp&quality=lossless&width=1439&height=479" alt="Alone Labs Banner" width="100%" />
 </div>
 
 VAE is a high-performance visual analytics engine built in Rust, designed for real-time video processing, object detection, and scene analysis.
