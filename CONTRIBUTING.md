@@ -1,9 +1,5 @@
 # Contributing to VAE
 
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335200374637854782/Add_a_heading_2.png" alt="VAE Banner" width="100%">
-</div>
-
 First off, thank you for considering contributing to VAE! It's people like you that make VAE such a great tool.
 
 ## Code of Conduct
