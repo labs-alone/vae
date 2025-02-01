@@ -55,13 +55,6 @@ VAE is built with a modular architecture:
 - **Runtime**: Resource and compute optimization
 - **API**: External integration interfaces
 
-## Documentation
-
-For detailed documentation, visit our [docs](docs/) directory:
-- [Architecture Overview](docs/architecture.md)
-- [API Reference](docs/api.md)
-- [Configuration Guide](docs/configuration.md)
-
 ## Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
@@ -72,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Twitter: [@vae_engine](https://x.com/alone_labs)
+- Twitter: [@alone_labs](https://x.com/alone_labs)
 
 ## Acknowledgments
 
