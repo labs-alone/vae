@@ -1,10 +1,14 @@
 # Contributing to VAE
 
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1199317611058577408/1335203873589170277/Add_a_heading_3.png?ex=679f5102&is=679dff82&hm=8d22d329221372596a76d80addbfa15a0886ea6570808e4c4f9d78c4af8804f3&=&format=webp&quality=lossless&width=1439&height=479" alt="Alone Labs Banner" width="100%" />
+</div>
+
 First off, thank you for considering contributing to VAE! It's people like you that make VAE such a great tool.
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold our Code of Conduct. Please report unacceptable behavior to team@vae-engine.dev.
+By participating in this project, you are expected to uphold our Code of Conduct.
 
 ## How Can I Contribute?
 
@@ -41,7 +45,7 @@ If you have a suggestion for the project, we'd love to hear it. Enhancement sugg
 
 1. Clone the repository
 ```bash
-git clone https://github.com/vae-engine/vae.git
+git clone https://github.com/vae/vae.git
 cd vae
 ```
 
@@ -103,17 +107,13 @@ vae/
 │   ├── runtime/     # Runtime optimization
 │   └── api/         # External interfaces
 ├── tests/           # Test files
-├── docs/            # Documentation
 └── examples/        # Example implementations
 ```
 
 ## Getting Help
 
 If you need help, you can:
-- Join our [Discord community](https://discord.gg/vae-engine)
-- Check the [documentation](docs/)
 - Ask in GitHub issues
-- Email the team at team@vae-engine.dev
 
 ## Recognition
 
@@ -121,6 +121,5 @@ Contributors are recognized in several ways:
 - Listed in our [Contributors](CONTRIBUTORS.md) file
 - Mentioned in release notes
 - Given credit in documentation
-- Awarded special Discord roles
 
 Thank you for contributing to VAE!
